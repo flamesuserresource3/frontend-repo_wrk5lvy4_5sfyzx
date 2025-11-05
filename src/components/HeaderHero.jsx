@@ -6,7 +6,7 @@ export default function HeaderHero() {
     <section className="relative w-full">
       <div className="relative h-[64vh] md:h-[72vh] w-full overflow-hidden">
         <Spline
-          scene="https://prod.spline.design/O-AdlP9lTPNz-i8a/scene.splinecode"
+          scene="https://prod.spline.design/cEecEwR6Ehj4iT8T/scene.splinecode"
           style={{ width: "100%", height: "100%" }}
         />
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-transparent" />
